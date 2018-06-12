@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	첫 페이지입니다.
+	Input 입니다.
 </body>
 </html>
